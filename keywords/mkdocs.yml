@@ -3,6 +3,7 @@ site_name: IT名词库
 pages:
 - 介绍: index.md
 - 操作系统: operating_system.md
+- 网络相关: network.md
 - WEB相关: web.md
 
 theme: readthedocs
